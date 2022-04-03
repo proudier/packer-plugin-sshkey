@@ -8,7 +8,7 @@ import (
 	"errors"
 )
 
-const RSA_BITS = 2048
+const RSA_BITS = 4096
 const RSA_BLOCK_TYPE = "RSA PRIVATE KEY"
 
 type RSAKey struct {
